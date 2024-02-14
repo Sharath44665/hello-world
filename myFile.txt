@@ -1,0 +1,11 @@
+unix is great os. unix was developed in Bell labs.
+learn operating system.
+Unix linux which one you choose.
+uNix is easy to learn.unix is a multiuser os.Learn unix .unix is a powerful.
+
+fun()
+    echo "This is a test."
+    # Terminate our shell script with success message
+    exit 1
+
+fun()
