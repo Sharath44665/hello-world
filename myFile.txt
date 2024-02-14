@@ -11,8 +11,25 @@ fun()
 fun()
 
 -----------------------------
- Mozilla's Firefox is one of the most popular alternatives to Chrome, Edge, and Safari browsers in part because it's been around since 2002, but mostly because of its frequent updates.
+
+Mozilla's Firefox is one of the most popular alternatives to Chrome, Edge, and Safari browsers in part because it's been around since 2002, but mostly because of its frequent updates.
 
 The Firefox internet browser updates regularly with bug fixes, speed improvements, security enhancements, and new features. However, these updates can be frustrating when they automatically start installing when you open the app. Then you have to wait several minutes for the new version to download and install.
 
 Firefox is available on Windows, Mac, Linux, iOS, and Android and lets you sync your data between each version through the use of a free Firefox account. The Android, Linux, Mac, and Windows versions of the Firefox browser support a vast library of extensions. The Windows version also supports Windows Hello authentication for enhanced security on compatible websites
+=======
+
+working in branch demo:
+ignore the text below
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+------------
+working again in demo branch
+
+DuckDuckGo is a private internet browser with both mobile and desktop apps. By default, it blocks all forms of online tracking and doesn't upload your search history to anyone's servers. If you're still concerned about your privacy, you can clear all your tabs and data by tapping the flame icon in the main menu.
+
+One particular feature that privacy-conscious folks will appreciate is the security rating that appears next to the current website's address at the top of the screen. Sites are rated from D to A on their encryption levels and the number of trackers detected. Tapping on this rating opens a full-screen report card, which features an impressive amount of information on how they reached the score.
+
+The browser has light and dark themes and a lock setting that requires Touch ID, Face ID, or passcode to use the app.
+
