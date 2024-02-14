@@ -9,3 +9,10 @@ fun()
     exit 1
 
 fun()
+
+-----------------------------
+ Mozilla's Firefox is one of the most popular alternatives to Chrome, Edge, and Safari browsers in part because it's been around since 2002, but mostly because of its frequent updates.
+
+The Firefox internet browser updates regularly with bug fixes, speed improvements, security enhancements, and new features. However, these updates can be frustrating when they automatically start installing when you open the app. Then you have to wait several minutes for the new version to download and install.
+
+Firefox is available on Windows, Mac, Linux, iOS, and Android and lets you sync your data between each version through the use of a free Firefox account. The Android, Linux, Mac, and Windows versions of the Firefox browser support a vast library of extensions. The Windows version also supports Windows Hello authentication for enhanced security on compatible websites
